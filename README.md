@@ -1,8 +1,6 @@
 # 👋 Hey there, ici Lilia !
 
 ---
-
-### 🛠️ Technologies que j’utilise
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
@@ -11,10 +9,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
 ---
-
-### ⚙️ Outils & Logiciels
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
@@ -22,8 +17,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
----
-
-### 📈 Mes statistiques GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=lilia-outayeb&show_icons=true&theme=radical)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilia-outayeb&layout=compact&theme=radical)
