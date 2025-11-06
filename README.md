@@ -1,4 +1,5 @@
-# 👋 Hey there, ici Lilia !
+# 👋 Hey there, I'm Lilia !
+WELCOME TO MY PROFILE <3
 
 ---
 <p align="center">
