@@ -21,3 +21,4 @@
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
   <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/></a>
 </p>
+<img src="https://github-stats-alpha.vercel.app/api?username=LiliaOutayeb&show_icons=true" />
